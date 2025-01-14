@@ -1,1 +1,2 @@
 .terraform/*
+.terraform/plugins/linux_amd64/terraform-provider-aws_v3.37.0_x5
